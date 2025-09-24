@@ -151,7 +151,7 @@ def move():
 # Cambio de color de los puntos
         up()
         goto(point.x + 10, point.y + 10)
-        dot(20, 'black')
+        dot(20, 'cyan')
 
     update()
 
